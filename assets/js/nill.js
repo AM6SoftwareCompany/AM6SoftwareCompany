@@ -1,12 +1,3 @@
-/*-----------------------------------------------------------
-* Template Name    : Nill | Bootstrap 4 personal, portfolio and resume
-* Author           : Retrinagroup
-* Version          : 1.0.0
-* Created          : Dec 2019
-* File Description : Main js file of the template
-*------------------------------------------------------------
-*/
-
 // repeated variables
 var $window = $(window);
 var $root = $('html, body');
